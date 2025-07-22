@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dinesh Kumar<br>MERN Stack Developer<br>Pre Final Year<br>BTech CSE <br>Karunya University<br>CBE <br>TN<br>INDIA<br>
+DINESH KUMAR<br>MERN STACK DEVELOPER<br>FINAL YEAR<br>BTECH CSE <br>KARUNYA UNIVERSITY<br>CBE <br>TN<br>INDIA<br>
 
 
 ## 🌐 Socials:
